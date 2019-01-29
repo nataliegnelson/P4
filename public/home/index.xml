@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on P4 REEU</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on P4 REEU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Natalie G. Nelson</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Pigs, Poultry, the Planet and Data-Driven Problem-Solving (nicknamed &amp;ldquo;P4&amp;rdquo;) is a Research and Extension Experience for Undergraduates summer fellowship program. The P4 program is designed to develop the next generation of data-savvy food animal production professionals, extension associates, and researchers. P4 fellows learn how to apply data-driven analytics and problem-solving to address issues surrounding global intensification of poultry and swine production. The program takes place at North Carolina State University in Raleigh, NC, in partnership with North Carolina Agricultural and Technical State University.</description>
+    </item>
+    
+    <item>
+      <title>Details</title>
+      <link>/home/details/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/details/</guid>
+      <description>Eligibility: Undergraduate students of sophomore or junior standing eligible. Only U.S. citizens are eligible to receive funding, but self-funded non-U.S. citizens are welcome to apply. Interests in food animal production and data science are required; prior experience is not. Some background in statistics (e.g. completion of an introductory statistics course) is preferred, but not required.
+Schedule: The program spans 11 weeks and begins the week after Memorial Day. In 2019, the program will occur from May 28 - August 11; the trip to China takes place during the final two weeks of the program.</description>
+    </item>
+    
+    <item>
+      <title>Apply</title>
+      <link>/home/apply/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/apply/</guid>
+      <description>Applications are due by 11:59 PM on March 15, 2019. Complete applications include all of the following materials:
+ Application form Statement of interest (submitted via the application form). The statement of interest should summarize your motivation for applying to the program and career goals (short- and long-term). Limited to 1 page with 12-pt font and 1&amp;rdquo; margins.
+ Resume (submitted via the application form). Limited to 1 page with 12-pt font and 1&amp;rdquo; margins.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mentors</title>
+      <link>/home/mentors/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/mentors/</guid>
+      <description>Dr. Praveen Kolar, Biological and Agricultural Engineering, NC State
+Dr. Lingjuan Li, Biological and Agricultural Engineering, NC State
+Dr. Natalie Nelson, Biological and Agricultural Engineering, NC State
+Dr. Ralph Noble, Animal Sciences, NC A&amp;amp;T
+Dr. Edgar Oviedo-Rondón, Poultry Science, NC Statte
+Dr. Mahmoud Sharara, Biological and Agricultural Engineering, NC State</description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description>For questions about the Pigs, Poultry, the Planet, and Data-Driven Problem Solving summer fellowship program, contact Dr. Natalie Nelson via email at nnelson4 [at] ncsu.edu</description>
+    </item>
+    
+  </channel>
+</rss>

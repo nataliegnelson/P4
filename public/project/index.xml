@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on P4 REEU</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on P4 REEU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Natalie G. Nelson</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How do environmental conditions in poultry barns impact poultry performance?</title>
+      <link>/project/project1/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project1/</guid>
+      <description>This project will seek to answer the question: how do environmental conditions in poultry barns impact poultry performance? At present, monitoring data collected in poultry houses are largely leveraged to address basic questions regarding the functionality of environmental control systems, such as whether a house has exceeded a temperature threshold, but these data yield the potential to address far more consequential questions than whether an environmental control system has met specifications.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing post-WWII history of U.S. animal agriculture to predict future production trends</title>
+      <link>/project/project3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project3/</guid>
+      <description>The P4 fellow who works on this project will analyze digitized USDA Census of Agriculture records from post-WWII to the present day to identify long-term trends of animal agriculture in leading production counties in terms of farm sizes and proximity to crop production. The fellow will also utilize machine learning techniques to analyze counties’ agricultural production over time to identify common trends in animal agriculture changes over the past century and key variables that can be used to predict future trends, insight on which will inform strategic planning related to animal agriculture.</description>
+    </item>
+    
+    <item>
+      <title>Comparative analysis of U.S. and Chiinese swine and poultry production systems</title>
+      <link>/project/project5/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project5/</guid>
+      <description>The P4 fellow who works on this project will analyze data collected from a range of different swine and poultry barns in China, and perform a comparative analysis to identify areas in which domestic and Chinese systems diverge. The P4 fellow will work closely with our Chinese collaborators at Zhejiang University.</description>
+    </item>
+    
+    <item>
+      <title>HOLD FOR PRAVEEN</title>
+      <link>/project/project6/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying hotspots of future animal climate control needs in the U.S.</title>
+      <link>/project/project4/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project4/</guid>
+      <description>The P4 fellow who works on this project will analyze climate model outputs in conjunction with spatial data outlining the distribution of U.S. animal agriculture across the landscape. The fellow will utilize data on animal comfort temperatures for each species to estimate regions in the U.S. where climate control might be a challenge for each animal species under future climate scenarios. This analysis will inform location-specific and forward-thinking designs of controlled environments for animal production, and guide sustainable expansion of animal agriculture.</description>
+    </item>
+    
+    <item>
+      <title>Swine production across the North Carolina landscape</title>
+      <link>/project/project2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/project2/</guid>
+      <description>The P4 fellow who works on this project will analyze satellite-derived spatial data to quantify swine production industry growth trends in North Carolina from 1984 to the present. Long-term and spatially-explicit data on swine farm locations currently do not exist, but are being generated at NC State through analysis of satellite imagery; these data will be available by the beginning of the program in summer 2019. As these data will be newly-created, there are many analyses left to be performed to answer important questions, such as: what factors explain spatiotemporal trends in swine production growth across NC?</description>
+    </item>
+    
+  </channel>
+</rss>
