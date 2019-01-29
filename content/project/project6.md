@@ -3,7 +3,7 @@
 date = "2018-01-01"
 
 # Project title.
-title = "HOLD FOR PRAVEEN"
+title = "Analysis and interpretation for agricultural wastewater treatment data"
 
 # Project summary to display on homepage.
 summary = ""
@@ -27,3 +27,5 @@ image = ""
 caption = ""
 
 +++
+
+There is significant interest in designing wastewater treatment systems for animal agriculture, especially for the swine industry. Adsorption is one such technology that is practical and highly relevant to the swine industry. However, design of an adsorption system involves collection, analyses, and interpretation of laboratory data. Therefore, students working on this project will collect and analyze the data with the goal of developing design metrics for adsorption systems for swine lagoons. Upon completion of this exercise, students will be equipped to use standard statistical analyses including non-linear regression, one-way and two-way analyses of variance, and surface response methodology for real data sets.

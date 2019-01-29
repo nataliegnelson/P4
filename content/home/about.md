@@ -15,10 +15,10 @@ weight = 5
 
 P4 fellows:  
 
-* **Gain skills** in data science, data-driven problem solving, holisitic evaluation of food animal production systems, global thinking, and techincal communications  
+* **Gain skills** in data science, data-driven problem solving, holistic evaluation of food animal production systems, global thinking, and technical communications  
 * Work on a **data-driven research project** under the supervision of two faculty mentors
 * Visit poultry and swine production facilities in North Carolina to gain **hands-on experience**
 * **Travel to China for 2 weeks** (expenses paid) to participate in knowledge and cultural exchange with scholars at China Agricultural University and Zhejiang University, and learn about international food animal production systems  
 * Network with **industry professionals** in the food animal production and data analytics industries
 * Attend a **national conference**
-* Receive a **stipend** and are provided with on-campus housing + a weekly meal allowance 
+* Receive a **stipend**, on-campus housing, and meal allowance 

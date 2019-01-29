@@ -14,7 +14,7 @@ weight = 15
 
 +++
 
-**Applications are due by 11:59 PM on March 15, 2019.** Complete applications include all of the following materials:  
+**Applications are due by 11:59 PM on March 1, 2019.** Complete applications include all of the following materials:  
 
 * [Application form](https://goo.gl/forms/uyxaXeYrHuMDU3Is2)
 * Statement of interest (submitted via the application form). The statement of interest should summarize your motivation for applying to the program and career goals (short- and long-term). Limited to 1 page with 12-pt font and 1" margins.  
