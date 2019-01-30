@@ -3,7 +3,7 @@
 date = "2018-01-01"
 
 # Project title.
-title = "Comparative analysis of U.S. and Chiinese swine and poultry production systems"
+title = "Comparative analysis of U.S. and Chinese swine and poultry production systems"
 
 # Project summary to display on homepage.
 summary = ""

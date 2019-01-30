@@ -13,7 +13,7 @@ weight = 5
 
 *Pigs, Poultry, the Planet and Data-Driven Problem-Solving* (nicknamed "P4") is a Research and Extension Experience for Undergraduates summer fellowship program. The P4 program is designed to develop the **next generation of data-savvy food animal production professionals, extension associates, and researchers**. P4 fellows learn how to apply data-driven analytics and problem-solving to address issues surrounding global intensification of poultry and swine production. The program takes place at North Carolina State University in Raleigh, NC, in partnership with North Carolina Agricultural and Technical State University.  
 
-P4 fellows:  
+P4 fellows will:  
 
 * **Gain skills** in data science, data-driven problem solving, holistic evaluation of food animal production systems, global thinking, and technical communications  
 * Work on a **data-driven research project** under the supervision of two faculty mentors
