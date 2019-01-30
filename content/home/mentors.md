@@ -23,6 +23,6 @@ weight = 60
 
 [**Dr. Ralph Noble**](https://www.ncat.edu/faculty/rcnoble.html), Animal Sciences, NC A&T  
 
-[**Dr. Edgar Oviedo-Rondón**](https://www.ces.ncsu.edu/profile/edgar-oviedo/), Poultry Science, NC State  
+[**Dr. Edgar Oviedo-Rondón**](https://cals.ncsu.edu/prestage-department-of-poultry-science/people/eooviedo/), Prestage Department of Poultry Science, NC State  
 
 [**Dr. Mahmoud Sharara**](https://www.bae.ncsu.edu/people/sharara), Biological and Agricultural Engineering, NC State  
