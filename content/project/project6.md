@@ -3,7 +3,7 @@
 date = "2018-01-01"
 
 # Project title.
-title = "Analysis and interpretation for agricultural wastewater treatment data"
+title = "Analysis and interpretation of agricultural wastewater treatment data"
 
 # Project summary to display on homepage.
 summary = ""

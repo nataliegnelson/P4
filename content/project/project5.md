@@ -9,7 +9,7 @@ title = "Comparative analysis of U.S. and Chinese swine and poultry production s
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "chicken-china.png"
+image_preview = "chicken-china.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
