@@ -14,12 +14,14 @@ weight = 15
 
 +++
 
-**Applications are due by 11:59 PM on March 1, 2019.** Complete applications include all of the following materials:  
+**Applications are due by 11:59 PM on January 15, 2020.** Complete applications include all of the following materials:  
 
 * [Application form](https://goo.gl/forms/uyxaXeYrHuMDU3Is2)
-* Statement of interest (submitted via the application form). The statement of interest should summarize your motivation for applying to the program and career goals (short- and long-term). Limited to 1 page with 12-pt font and 1" margins.  
-* Resume (submitted via the application form). Limited to 1 page with 12-pt font and 1" margins.
+  * The application includes optional questions on demographics and the following required question: What is the statistical method you most enjoyed learning about and why? Explain in 5-10 sentences.
+* Statement of interest (submitted via the application form). The statement of interest should summarize your perspective on the use of data analytics in food animal production, motivation for applying to the program and career goals (short- and long-term). Limited to 1 single spaced page with 12-pt font and 1" margins.  
+* Resume (submitted via the application form). Limited to 1 single spaced page with 12-pt Times New Roman font and 1" margins.
 * Contact information for a reference (submitted via the application form). The reference should be a faculty member or professional who knows you through academic and/or professional interactions and can speak to your potential and career ambitions. 
 
-*Applications that remain incomplete by the deadline may not be reviewed.*
+*Applications that remain incomplete by the deadline may not be reviewed.*  
 
+Finalists will be interviewed via video call. We anticipate contacting finalists by the first week of February, and sending offer letters in mid-February. Six students will be admitted for summer 2020.

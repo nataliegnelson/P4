@@ -18,9 +18,8 @@ P4 fellows will:
 * **Gain skills** in data science, data-driven problem solving, holistic evaluation of food animal production systems, global thinking, and technical communications  
 * Work on a **data-driven research project** under the supervision of two faculty mentors
 * Visit poultry and swine production facilities in North Carolina to gain **hands-on experience**
-* **Travel to China for 2 weeks** (expenses paid) to participate in knowledge and cultural exchange with scholars at China Agricultural University and Zhejiang University, and learn about international food animal production systems  
+* **Participate in a weeklong workshop in China** (expenses paid) involving knowledge and cultural exchange with scholars at two universities to learn about international food animal production systems  
 * Network with **industry professionals** in the food animal production and data analytics industries
-* Attend a **national conference**
 * Receive a **stipend**, on-campus housing, and meal allowance  
 
 This work is supported by the Agriculture and Food Research Initiative, Educational Literacy Initiative's Research and Extension Experiences for Undergraduates grant program (grant no. 2019-67032-29074/project accession no. 1018043) from the USDA National Institute of Food and Agriculture.  

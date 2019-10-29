@@ -21,7 +21,7 @@ weight = 60
 
 [**Dr. Natalie Nelson**](https://www.bae.ncsu.edu/people/nnelson4), Biological and Agricultural Engineering, NC State    
 
-[**Dr. Ralph Noble**](https://www.ncat.edu/faculty/rcnoble.html), Animal Sciences, NC A&T  
+[**Dr. Mulumebet Worku**](https://www.ncat.edu/faculty/worku.html), Animal Sciences, NC A&T  
 
 [**Dr. Edgar Oviedo-Rondón**](https://cals.ncsu.edu/prestage-department-of-poultry-science/people/eooviedo/), Prestage Department of Poultry Science, NC State  
 

@@ -3,13 +3,13 @@
 date = "2018-01-01"
 
 # Project title.
-title = "Swine production across the North Carolina landscape"
+title = "Understanding environmental and management factors contributing to pre-weaning mortality in hogs"
 
 # Project summary to display on homepage.
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "aerial.jpg"
+image_preview = "pigs.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,4 +28,4 @@ caption = ""
 
 +++
 
-The P4 fellow who works on this project will analyze satellite-derived spatial data to quantify swine production industry growth trends in North Carolina from 1984 to the present. Long-term and spatially-explicit data on swine farm locations currently do not exist, but are being generated at NC State through analysis of satellite imagery; these data will be available by the beginning of the program in summer 2019. As these data will be newly-created, there are many analyses left to be performed to answer important questions, such as: what factors explain spatiotemporal trends in swine production growth across NC? Where did swine production growth occur in relation to surface- and ground-water resources? Are existing swine farms at risk of experiencing water shortages due to expected future changes in water consumption, precipitation, and evaporation? The P4 fellow will perform a series of geospatial assessments to answer these questions. Findings from this project will provide needed insight on the history and future sustainability of swine production in NC. This project addresses the Grand Challenges Facing Animal Production of (1) optimizing and ensuring responsible and sustainable use of water, and (2) ensuring that animal scientists develop and disseminate strategies for mitigation and adaptation to increasing climate variability.
+The P4 fellow who works on this project will analyze key performance indicators, data on environmental conditions in swine barns, and statistics on pre-weaning mortality across six hog farms spread throughout the SE U.S. The goal of the project will be to identify correlations between environmental and performance factors and hog mortality in order to provide data-driven improvements to swine farm management. The student who works on this project will regularly interact with a producer and engage in Extension. This project addresses the Grand Challenges Facing Animal Production of (1) optimizing the health and productivity of animals in a manner that protects and enhances human health, (2) producing animal proteins in an economically, environmentally and socially acceptable manner that meets the demands of an increasing population, and (3) optimizing animal well-being in a socially acceptable and sustainable manner.
