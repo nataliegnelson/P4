@@ -22,7 +22,7 @@ P4 fellows will:
 * Network with **industry professionals** in the food animal production and data analytics industries
 * Receive a **stipend**, on-campus housing, and meal allowance  
 
-The P4 program is dedicated to the goal of supporting the development of a culturally diverse workforce, and strongly encourages applications from women, minorities, individuals with disabilities, veterans, and other underrepresented groups in STEM.
+The P4 program is dedicated to the goal of supporting the development of a culturally diverse workforce, and strongly encourages applications from women, racial and ethnic minorities, individuals with disabilities, first generation college students, and veterans.
 
 This work is supported by the Agriculture and Food Research Initiative, Educational Literacy Initiative's Research and Extension Experiences for Undergraduates grant program (grant no. 2019-67032-29074/project accession no. 1018043) from the USDA National Institute of Food and Agriculture.  
 
