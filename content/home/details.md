@@ -15,7 +15,11 @@ weight = 10
 +++
 **Eligibility:** Enrolled undergraduate students of sophomore or junior standing who are interested in food animal production and data science are eligible to apply. **Students who will have graduated by May 2020 are not eligible to participate.** Only U.S. citizens are eligible to receive funding. 
 
-**Statistics prerequisites:** Prior background in statistics (e.g. completion of an introductory statistics course) is required. Applicants should have understanding of the following statistical concepts prior to starting the program: random variables, probability distributions, hypothesis testing, and regression. If you need a refresher on these topics, please refer to [OpenIntro Statistics](https://leanpub.com/openintro-statistics). 
+**Statistics prerequisites:** Prior background in statistics (e.g. completion of an introductory statistics course) is required. Applicants should have understanding of the following statistical concepts prior to starting the program: random variables, probability distributions, hypothesis testing, and regression. If you need a refresher on these topics, we recommend the following resources (there are also many additional resources online):
+
+- [OpenIntro Statistics](https://leanpub.com/openintro-statistics)  
+
+- [JMP: Statistical Thinking for Industrial Problem Solving](https://www.jmp.com/en_us/online-statistics-course.html)
 
 **Schedule:** The program spans 11 weeks and begins the week after Memorial Day. In 2020, the program will occur from May 28 - August 7; the workshop in China takes place during the third week of the program. 
 
