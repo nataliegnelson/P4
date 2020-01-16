@@ -14,7 +14,7 @@ weight = 15
 
 +++
 
-**Applications are due by 11:59 PM on January 15, 2020.** Complete applications include all of the following materials:  
+**DEADLINE EXTENDED: Applications are due by 11:59 PM on January 20, 2020.** Complete applications include all of the following materials:  
 
 * [Application form](https://forms.gle/1yNa5gupm8NkCsfy9)
   * The application includes optional questions on demographics and the following required question: What is the statistical method you most enjoyed learning about and why? Explain in 5-10 sentences.
