@@ -14,9 +14,9 @@ weight = 15
 
 +++
 
-**DEADLINE EXTENDED: Applications are due by 11:59 PM on January 20, 2020.** Complete applications include all of the following materials:  
+**DEADLINE EXTENDED: Applications are due by 11:59 PM on February 15, 2021.** Complete applications include all of the following materials:  
 
-* [Application form](https://forms.gle/1yNa5gupm8NkCsfy9)
+* [Application form](https://forms.gle/61y4FRgjF1NMtfhC7)
   * The application includes optional questions on demographics and the following required question: What is the statistical method you most enjoyed learning about and why? Explain in 5-10 sentences.
 * Statement of interest (submitted via the application form). The statement of interest should summarize your perspective on the use of data analytics in food animal production, motivation for applying to the program and career goals (short- and long-term). Limited to 1 single spaced page with 12-pt font and 1" margins.  
 * Resume (submitted via the application form). Limited to 1 single spaced page with 12-pt Times New Roman font and 1" margins.
