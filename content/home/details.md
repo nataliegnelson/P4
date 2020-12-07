@@ -23,4 +23,4 @@ weight = 10
 
 **Schedule:** The program spans 11 weeks, from May 17 - July 30, 2021. 
 
-**Compensation:** Fellows will receive a $5,500 stipend. Financial assistance to support travel to/from home institutions to NC State for the orientation will be provided.
+**Compensation:** Fellows will receive a $5,500 stipend. Financial assistance to support travel to/from home institutions to NC State for the tentatively-planned orientation will be provided.

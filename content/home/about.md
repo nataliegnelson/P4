@@ -23,6 +23,8 @@ P4 fellows will:
 
 The P4 program is dedicated to the goal of supporting the development of a culturally diverse workforce, and strongly encourages applications from women, racial and ethnic minorities, individuals with disabilities, first generation college students, and veterans.
 
+<img src="../../img/group_2020.png" alt="Photographs of the 2020 student cohort", width = "100%">
+
 This work is supported by the Agriculture and Food Research Initiative, Educational Literacy Initiative's Research and Extension Experiences for Undergraduates grant program (grant no. 2019-67032-29074/project accession no. 1018043) from the USDA National Institute of Food and Agriculture.  
 
 <img src="../../img/USDA.jpg" alt="U.S. Department of Agriculture logo", width = "60%">
