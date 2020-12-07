@@ -14,9 +14,9 @@ weight = 15
 
 +++
 
-**Applications are due by 11:59 PM on February 15, 2021.** The following applications materials should be submitted via the [Application Form](https://forms.gle/61y4FRgjF1NMtfhC7). The application includes optional questions on demographics, as well as contact information for a reference. The reference should be a faculty member or professional who knows you through academic and/or professional interactions and can speak to your potential and career ambitions. Additionally, you will need to submit a single PDF with the name **lastname_firstname.pdf** that includes the following:  
+**Applications are due by 11:59 PM on February 15, 2021.** The following applications materials should be submitted via the [Application Form](https://forms.gle/61y4FRgjF1NMtfhC7). The application includes optional questions on demographics, as well as a request for contact information for a professional reference. The reference should be a faculty member or professional who knows you through academic and/or professional interactions and can speak to your potential and career ambitions. Additionally, you will need to submit a single PDF with the name **lastname_firstname.pdf** that includes the following:  
 
-* **Statement of interest**: The statement of interest should summarize your perspective on the use of data analytics in food animal production, motivation for applying to the program and career goals (short- and long-term). Limited to 1 single spaced page with 12-pt font and 1" margins. Most competitive applicants will have written one full page; short statements (e.g. one paragraph) usually review poorly.  
+* **Statement of interest**: The statement of interest should summarize your perspective on the use of data analytics in food animal production, motivation for applying to the program and career goals (short- and long-term). Limited to 1 single spaced page with 12-pt font and 1" margins. Most competitive applicants will have written one full page; applicants who submit short statements (e.g. one paragraph) usually are not invited for an interview.  
 * **Resume**: Limited to 1 single spaced page with 12-pt Times New Roman font and 1" margins.
 * **A 5-10 sentence response to the question**: What is the statistical method you most enjoyed learning about and why?   
 
