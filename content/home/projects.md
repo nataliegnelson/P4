@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Projects"
+title = "Sample Projects (projects may differ in 2021)"
 subtitle = ""
 widget = "projects"
 
