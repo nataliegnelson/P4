@@ -19,7 +19,7 @@ P4 fellows will:
 * Work on a **data-driven research project** under the supervision of two faculty mentors
 * Visit poultry and swine production facilities in North Carolina to gain **hands-on experience** during a one-week in-person orientation (Note: these experiences are tentatively scheduled during a one-week in-person orientation; strict coronavirus transmission risk mitigation measures will be implemented.)
 * Network with **industry professionals** in the food animal production and data analytics industries
-* Receive a $5,500 **stipend**  
+* Receive a $5,000 **stipend**  
 
 The P4 program is dedicated to the goal of supporting the development of a culturally diverse workforce, and strongly encourages applications from women, racial and ethnic minorities, individuals with disabilities, first generation college students, and veterans.
 

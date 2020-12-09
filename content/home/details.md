@@ -21,6 +21,6 @@ weight = 10
 
 - [JMP: Statistical Thinking for Industrial Problem Solving](https://www.jmp.com/en_us/online-statistics-course.html)
 
-**Schedule:** The program spans 11 weeks, from May 17 - July 30, 2021. 
+**Schedule:** The program spans 9 weeks, from June 1 - July 30, 2021. 
 
-**Compensation:** Fellows will receive a $5,500 stipend. Financial assistance to support travel to/from home institutions to NC State for the tentatively-planned orientation will be provided.
+**Compensation:** Fellows will receive a $5,000 stipend. Financial assistance to support travel to/from home institutions to NC State for the tentatively-planned orientation will be provided.
